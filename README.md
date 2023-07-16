@@ -1,6 +1,5 @@
 # Weather-Data-Analysis-using-Python-
 Weather forecasting plays a crucial role in our daily lives, enabling us to plan our activities and make informed decisions. In the realm of Data Science, weather forecasting utilizes time series data and advanced algorithms to predict weather conditions for specific locations and timeframes.
-Title: Exploring Weather Trends in Delhi with Python
 
 # Introduction:
 Weather patterns have a significant impact on our daily lives. In this file, we will use Python to analyze and forecast weather trends in Delhi. By leveraging powerful libraries like pandas, numpy, matplotlib, seaborn, plotly, and statsmodels, we will gain insights into temperature, humidity, wind speed, and their relationships over the years.
